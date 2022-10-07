@@ -1,0 +1,10 @@
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\bin\Debug\Oroklodes.exe.config
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\bin\Debug\Oroklodes.exe
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\bin\Debug\Oroklodes.pdb
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\obj\Debug\Oroklodes.csprojAssemblyReference.cache
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\obj\Debug\Oroklodes.Form1.resources
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\obj\Debug\Oroklodes.Properties.Resources.resources
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\obj\Debug\Oroklodes.csproj.GenerateResource.cache
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\obj\Debug\Oroklodes.csproj.CoreCompileInputs.cache
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\obj\Debug\Oroklodes.exe
+D:\Iskolai feladatok\Programozás\Oroklodes\Oroklodes\Oroklodes\obj\Debug\Oroklodes.pdb

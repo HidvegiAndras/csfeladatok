@@ -1,0 +1,6 @@
+Ork:Elso:5
+Ork:Masodik:10
+Valami:Névtelen:100
+Troll:Elso:20
+Ogre:Nagyvagyok:30
+

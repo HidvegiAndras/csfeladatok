@@ -1,0 +1,7 @@
+D:\Iskolai feladatok\Programozás\2. Szudoku_megoldás\szudoku_soultion\szudoku\bin\Debug\szudoku.exe.config
+D:\Iskolai feladatok\Programozás\2. Szudoku_megoldás\szudoku_soultion\szudoku\bin\Debug\szudoku.exe
+D:\Iskolai feladatok\Programozás\2. Szudoku_megoldás\szudoku_soultion\szudoku\bin\Debug\szudoku.pdb
+D:\Iskolai feladatok\Programozás\2. Szudoku_megoldás\szudoku_soultion\szudoku\obj\Debug\szudoku.csprojAssemblyReference.cache
+D:\Iskolai feladatok\Programozás\2. Szudoku_megoldás\szudoku_soultion\szudoku\obj\Debug\szudoku.csproj.CoreCompileInputs.cache
+D:\Iskolai feladatok\Programozás\2. Szudoku_megoldás\szudoku_soultion\szudoku\obj\Debug\szudoku.exe
+D:\Iskolai feladatok\Programozás\2. Szudoku_megoldás\szudoku_soultion\szudoku\obj\Debug\szudoku.pdb

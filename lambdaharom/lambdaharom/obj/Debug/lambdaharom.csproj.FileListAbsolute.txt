@@ -1,0 +1,20 @@
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\obj\Debug\lambdaharom.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\obj\Debug\lambdaharom.Form1.resources
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\obj\Debug\lambdaharom.Properties.Resources.resources
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\obj\Debug\lambdaharom.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\obj\Debug\lambdaharom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\bin\Debug\lambdaharom.exe.config
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\bin\Debug\lambdaharom.exe
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\bin\Debug\lambdaharom.pdb
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\obj\Debug\lambdaharom.exe
+C:\Users\Admin\Desktop\Prog\8\lambdaharom\lambdaharom\obj\Debug\lambdaharom.pdb
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\bin\Debug\lambdaharom.exe.config
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\bin\Debug\lambdaharom.exe
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\bin\Debug\lambdaharom.pdb
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\obj\Debug\lambdaharom.csprojAssemblyReference.cache
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\obj\Debug\lambdaharom.Form1.resources
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\obj\Debug\lambdaharom.Properties.Resources.resources
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\obj\Debug\lambdaharom.csproj.GenerateResource.cache
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\obj\Debug\lambdaharom.csproj.CoreCompileInputs.cache
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\obj\Debug\lambdaharom.exe
+D:\Iskolai feladatok\Programozás\lambdaharom\lambdaharom\obj\Debug\lambdaharom.pdb

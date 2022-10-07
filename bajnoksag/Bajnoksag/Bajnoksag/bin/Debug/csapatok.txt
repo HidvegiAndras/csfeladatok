@@ -1,0 +1,8 @@
+Maszkosok,Tamado,19,21,38
+Betyárok,Jokapus,41,24,16
+Ivócimborák,Vedekezo,22,37,20
+Hatbé,Tamado,18,22,40
+Mókusörs,Vedekezo,23,41,16
+Cegléd,Jokapus,40,21,18
+Mókusörs,Vedekezo,31,39,51
+PUF,Vedek,31,39,51

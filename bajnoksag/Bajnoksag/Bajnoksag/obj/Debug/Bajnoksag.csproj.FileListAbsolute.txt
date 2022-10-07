@@ -1,0 +1,29 @@
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.exe.config
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.exe
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.pdb
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csprojAssemblyReference.cache
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.Properties.Resources.resources
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csproj.GenerateResource.cache
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csproj.CoreCompileInputs.cache
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.exe
+\\ANDRAS-PC\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.pdb
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.exe.config
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.exe
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.pdb
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csprojAssemblyReference.cache
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.Form1.resources
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.Properties.Resources.resources
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csproj.GenerateResource.cache
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csproj.CoreCompileInputs.cache
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.exe
+D:\Torrent\apacucc\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.pdb
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.exe.config
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.exe
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\bin\Debug\Bajnoksag.pdb
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csprojAssemblyReference.cache
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.Form1.resources
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.Properties.Resources.resources
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csproj.GenerateResource.cache
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.csproj.CoreCompileInputs.cache
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.exe
+D:\Iskolai feladatok\Programozás\Bajnokság\Bajnoksag\Bajnoksag\obj\Debug\Bajnoksag.pdb

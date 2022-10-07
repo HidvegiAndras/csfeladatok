@@ -1,0 +1,6 @@
+Ork:Elso:3
+Ork:Masodik:6
+Ogre:Harmadik:2
+Ork:Negyedik:5
+Valami:Névtelen:100
+Troll:Otodik:1
